@@ -10,14 +10,14 @@
         "name": "MovieGram",
         "live": "https://moviegram-86d43202f567.herokuapp.com/session/new",
         "github": "https://github.com/yilmaz1998/Project-2-MovieGram",
-        "desc": "Designed an application about movies. Express-session based creating user and logging in. Creating, updating and deleting your own movies. Adding comments for other users' movies. Used MongoDB for databases.",
+        "desc": "Designed an application about movies. Express-session based creating user and logging in. Creating, updating and deleting your own movies. Adding comments for other users' movies.",
         "images": ["1718817410887.jpeg", "1718817427191.jpeg"]
     },
     {
         "name": "Order-Eatz (Group Project)",
         "live": "https://order-eatz.netlify.app/",
         "github": "https://github.com/psantos2107/order-eatz-frontend",
-        "desc": "Designed an online-ordering application as a group project. Collaborated with three other colleagues.Users can login and signup. Users also can create, edit or delete orders and make a fake payment. Improved team-work, communication, git-branch skills. ",
+        "desc": "Designed an online-ordering application as a group project. Collaborated with three other colleagues.Users can login and signup. Users also can create, edit or delete orders and make a fake payment. Improved team-work, communication, git-branch skills.",
         "images": ["1718818399931.jpeg", "1718818417987.jpeg"]
     },
     {

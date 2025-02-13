@@ -3,35 +3,35 @@
         "name": "VineView",
         "live": "https://vineview.netlify.app/",
         "github": "https://github.com/yilmaz1998/VineView-frontend",
-        "desc": "Designed a wine application that uses a wine API to fetch around 3,500 entries. Users can log in and sign up, add their favorite wines to a personalized list, and leave reviews, creating an interactive experience for wine enthusiasts. ",
+        "desc": "Built a wine app with a 3,500-entry API, enabling users to sign up, save favorites, and leave reviews for an interactive experience.",
         "images": ["343434343.jpg", "343434343343.jpg"]
     },
     {
         "name": "LiquidLounge",
         "live": "https://liquid-lounge.netlify.app/",
         "github": "https://github.com/yilmaz1998/LiquidLounge-frontend",
-        "desc": "Designed an application about cocktails with the idea of working as a bartender. Users can login and sign up. With the classic drink section, there are 50 most popular cocktails and users can add them on their favorites and also remove them. Users can create, edit and delete their own drinks and can add reviews for other users' drinks as well.",
+        "desc": "Developed a cocktail app inspired by bartending, featuring 50 classic drinks. Users can sign up, save favorites, create custom cocktails, and review others' drinks.",
         "images": ["1718819058970.jpeg", "1718819193632.jpeg"]
     },
     {
         "name": "Order-Eatz (Group Project)",
         "live": "https://order-eatz.netlify.app/",
         "github": "https://github.com/psantos2107/order-eatz-frontend",
-        "desc": "Designed an online-ordering application as a group project. Collaborated with three other colleagues.Users can login and signup. Users also can create, edit or delete orders and make a fake payment. Improved team-work, communication, git-branch skills.",
+        "desc": "Co-developed an online ordering app with a team of four, enabling user authentication, order management, and mock payments. Strengthened teamwork, communication, and Git branching skills.",
         "images": ["1718818399931.jpeg", "1718818417987.jpeg"]
     },
     {
         "name": "MovieGram",
         "live": "https://moviegram-86d43202f567.herokuapp.com/session/new",
         "github": "https://github.com/yilmaz1998/Project-2-MovieGram",
-        "desc": "Designed an application about movies. Express-session based creating user and logging in. Creating, updating and deleting your own movies. Adding comments for other users' movies.",
+        "desc": "Built a movie app with Express-session authentication, allowing users to create, edit, and delete their movies while commenting on others' films.",
         "images": ["1718817410887.jpeg", "1718817427191.jpeg"]
     },
     {
         "name": "Capitals Quiz Game",
         "live": "https://yilmaz1998.github.io/Project-1-QuizGame/",
         "github": "https://github.com/yilmaz1998/Project-1",
-        "desc": "Designed a quiz game about capital cities of 20 most known countries. The game also has a timer. Players can quit anytime and at the end, players will be noticed about their points.",
+        "desc": "Created a quiz game featuring the capitals of 20 countries, with a timer and an option to quit anytime. Players receive their score at the end.",
         "images": ["1718816264577.jpeg", "1718816281408.jpeg"]
     }
 ]
